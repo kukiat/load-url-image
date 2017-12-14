@@ -1,0 +1,3 @@
+table = 3000
+sofa = 3000
+chair = 3000
